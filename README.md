@@ -1,0 +1,2 @@
+# Diagnostico_informatica1
+Diagnostico_informatica1
